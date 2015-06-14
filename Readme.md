@@ -1,0 +1,1 @@
+This repository is going to contain my solutions for the Project Euler problems. They discourage posting solutions on the internet so I am discouraging people to try and find solutions here. This is my personal challenge so just do it. 
