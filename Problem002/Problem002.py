@@ -1,3 +1,4 @@
+#!python3
 previous = 1
 current = 2
 output = 0
@@ -7,4 +8,4 @@ while current < 4000000:
 	temp = current
 	current += previous
 	previous = temp
-print output
+print(output)
